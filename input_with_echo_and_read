@@ -1,0 +1,5 @@
+#!/bin/bash
+
+echo Hello, what's your age?
+read AGE
+echo I am $AGE year old.
