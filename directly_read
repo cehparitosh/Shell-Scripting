@@ -1,0 +1,6 @@
+#!/bin/bash
+
+read -p 'Hello! What's Your Name  ' NAME
+read -sp 'What's Your Password: ' PASS
+echo "My Name is $NAME"
+echo "My Password is $PASS"
